@@ -1,0 +1,172 @@
+// Common
+"app.name" = "סנאגל טראקר";
+"common.notes" = "הערות";
+"common.error" = "שגיאה";
+"common.ok" = "אישור";
+
+// Tab Bar
+"tab.track" = "סנאגל";
+"tab.history" = "היסטוריה";
+"tab.profile" = "פרופיל";
+"tab.achievements" = "הישגים";
+
+// Tracking
+"track.feeding" = "מעקב האכלה";
+"track.feeding.subtitle" = "רישום בקבוק, הנקה, או מוצקים";
+"track.sleep" = "מעקב שינה";
+"track.sleep.subtitle" = "רישום זמן ואיכות שינה";
+"track.growth" = "מעקב גדילה";
+"track.growth.subtitle" = "רישום משקל, גובה והיקף ראש";
+"track.medication" = "מעקב תרופות";
+"track.medication.subtitle" = "רישום תרופות ומינונים";
+"track.quick.actions" = "פעולות מהירות";
+"track.recent.activity" = "פעילות אחרונה";
+"track.no.baby.title" = "לא נבחר תינוק";
+"track.no.baby.message" = "הוסף תינוק בלשונית הפרופיל כדי להתחיל במעקב";
+
+// Feeding Types
+"feeding.type.bottle" = "בקבוק";
+"feeding.type.breastfeeding" = "הנקה";
+"feeding.type.solids" = "מוצקים";
+"feeding.type" = "סוג";
+"feeding.start.time" = "שעת התחלה";
+"feeding.duration" = "משך: %d דקות";
+"feeding.amount" = "כמות: %d מ״ל";
+"feeding.save" = "שמור האכלה";
+
+// Sleep Quality
+"sleep.quality.poor" = "גרועה";
+"sleep.quality.fair" = "בינונית";
+"sleep.quality.good" = "טובה";
+"sleep.quality.excellent" = "מצוינת";
+
+// Profile
+"profile.babies" = "תינוקות";
+"profile.add.baby" = "הוסף תינוק";
+"profile.account" = "חשבון";
+"profile.about" = "אודות";
+"profile.family.sharing" = "שיתוף משפחתי";
+"profile.notifications" = "התראות";
+"profile.data.privacy" = "נתונים ופרטיות";
+"profile.help.support" = "עזרה ותמיכה";
+"profile.privacy.policy" = "מדיניות פרטיות";
+"profile.version" = "גרסה %@";
+
+// Baby Management
+"baby.name" = "שם התינוק";
+"baby.birth.date" = "תאריך לידה";
+"baby.add" = "הוסף תינוק";
+"baby.cancel" = "ביטול";
+
+// Family Sharing
+"family.members" = "בני משפחה";
+"family.owner" = "בעלים";
+"family.member" = "בן משפחה";
+"family.invite" = "הזמן בן משפחה";
+"family.email" = "כתובת אימייל";
+
+// Notifications
+"notifications.enable.all" = "הפעל את כל ההתראות";
+"notifications.feeding" = "תזכורות האכלה";
+"notifications.sleep" = "מעקב שינה";
+"notifications.medication" = "תזכורות תרופות";
+"notifications.growth" = "מעקב גדילה";
+
+// Settings
+"settings.preferences" = "העדפות";
+"settings.language" = "שפה";
+
+// Time
+"year.single" = "שנה";
+"year.plural" = "שנים";
+"month.single" = "חודש";
+"month.plural" = "חודשים";
+"day.single" = "יום";
+"day.plural" = "ימים";
+"time.just.now" = "עכשיו";
+"time.minute.ago" = "לפני דקה";
+"time.minutes.ago" = "לפני %d דקות";
+"time.hour.ago" = "לפני שעה";
+"time.hours.ago" = "לפני %d שעות";
+"time.yesterday" = "אתמול";
+"time.days.ago" = "לפני %d ימים";
+"time.duration" = "%d שעות %d דקות";
+
+// Activity
+"track.activity.sleep" = "ישן למשך %@";
+"track.activity.feeding.amount" = "%@ - %d מ״ל";
+
+// Sleep
+"sleep.start.time" = "שעת התחלה";
+"sleep.end.time" = "שעת סיום";
+"sleep.quality" = "איכות שינה";
+"sleep.details" = "פרטי שינה";
+"sleep.duration" = "משך: %@";
+"sleep.save" = "שמור רישום שינה";
+"sleep.timer" = "טיימר שינה";
+"sleep.start.timer" = "הפעל טיימר";
+"sleep.manual.entry" = "הזנה ידנית";
+
+// Error Messages
+"error.no.baby.selected" = "נא לבחור תינוק תחילה";
+
+// Growth
+"growth.date" = "תאריך";
+"growth.weight" = "משקל (ק״ג)";
+"growth.height" = "גובה (ס״מ)";
+"growth.head" = "היקף ראש (ס״מ)";
+"growth.measurements" = "מדידות";
+"growth.units" = "השתמש ביחידות מטריות (ק״ג למשקל, ס״מ לגובה והיקף ראש)";
+"growth.save" = "שמור רישום גדילה";
+
+// Medication
+"medication.time" = "זמן";
+"medication.name" = "שם התרופה";
+"medication.dosage" = "מינון";
+"medication.details" = "פרטי תרופה";
+"medication.dosage.hint" = "כלול יחידות (למשל: מ״ל, מ״ג, טיפות)";
+"medication.save" = "שמור רישום תרופה";
+"medication.select" = "בחר תרופה";
+"medication.change" = "שנה";
+"medication.dosage.custom" = "מינון מותאם אישית";
+"medication.category.vitamins" = "ויטמינים";
+"medication.category.supplements" = "תוספי תזונה";
+"medication.category.painRelief" = "משככי כאבים";
+"medication.category.fever" = "חום";
+"medication.category.other" = "אחר";
+"error.medication.name.required" = "נא להזין שם תרופה";
+"error.medication.dosage.required" = "נא להזין מינון";
+
+// History
+"history.date" = "בחר תאריך";
+"history.filter" = "סנן פעילויות";
+"history.filter.all" = "הכל";
+
+// Baby Settings
+"baby.settings" = "ה��דרות תינוק";
+"baby.settings.save" = "שמור שינויים";
+"baby.settings.delete" = "מחק תינוק";
+"baby.settings.delete.title" = "מחק תינוק";
+"baby.settings.delete.message" = "האם אתה בטוח שברצונך למחוק תינוק זה? לא יתן לבטל פעולה זו.";
+"baby.settings.delete.confirm" = "מחק";
+
+// Food Categories
+"food.category.fruits" = "פירות";
+"food.category.vegetables" = "ירקות";
+"food.category.grains" = "דגנים";
+"food.category.protein" = "חלבון";
+"food.category.dairy" = "מוצרי חלב";
+"food.category.other" = "אחר";
+
+// Feeding
+"feeding.solids.select" = "בחר מאכלים";
+"feeding.solids.selected" = "מאכלים שנבחרו";
+"feeding.solids.none" = "לא נבחרו מאכלים";
+"feeding.recent.amounts" = "כמויות אחרונות:";
+
+// Quick Actions
+"quick.action.feeding" = "האכלה";
+"quick.action.sleep" = "שינה";
+"quick.action.growth" = "גדילה";
+"quick.action.medication" = "תרופות";
+  

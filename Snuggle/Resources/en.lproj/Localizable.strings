@@ -1,0 +1,188 @@
+// Common
+"app.name" = "SnuggleTracker";
+
+// Tab Bar
+"tab.track" = "Snuggle";
+"tab.history" = "History";
+"tab.profile" = "Profile";
+"tab.achievements" = "Achievements";
+
+// Tracking
+"track.feeding" = "Track Feeding";
+"track.feeding.subtitle" = "Record bottle, breastfeeding, or solids";
+"track.sleep" = "Track Sleep";
+"track.sleep.subtitle" = "Log sleep time and quality";
+"track.growth" = "Track Growth";
+"track.growth.subtitle" = "Record weight, height, and head size";
+"track.medication" = "Track Medication";
+"track.medication.subtitle" = "Log medications and dosages";
+"track.quick.actions" = "Quick Actions";
+"track.recent.activity" = "Recent Activity";
+"track.no.baby.title" = "No Baby Selected";
+"track.no.baby.message" = "Add a baby in the Profile tab to start tracking";
+
+// Feeding Types
+"feeding.type.bottle" = "Bottle";
+"feeding.type.breastfeeding" = "Breastfeeding";
+"feeding.type.solids" = "Solids";
+
+// Sleep Quality
+"sleep.quality.poor" = "Poor";
+"sleep.quality.fair" = "Fair";
+"sleep.quality.good" = "Good";
+"sleep.quality.excellent" = "Excellent";
+
+// Profile
+"profile.babies" = "Babies";
+"profile.add.baby" = "Add Baby";
+"profile.account" = "Account";
+"profile.about" = "About";
+"profile.family.sharing" = "Family Sharing";
+"profile.notifications" = "Notifications";
+"profile.data.privacy" = "Data & Privacy";
+"profile.help.support" = "Help & Support";
+"profile.privacy.policy" = "Privacy Policy";
+"profile.version" = "Version %@";
+
+// Baby Management
+"baby.name" = "Baby's Name";
+"baby.birth.date" = "Birth Date";
+"baby.add" = "Add Baby";
+"baby.cancel" = "Cancel";
+
+// Family Sharing
+"family.members" = "Family Members";
+"family.owner" = "Owner";
+"family.member" = "Family Member";
+"family.invite" = "Invite Family Member";
+"family.email" = "Email Address";
+
+// Notifications
+"notifications.enable.all" = "Enable All Notifications";
+"notifications.feeding" = "Feeding Reminders";
+"notifications.sleep" = "Sleep Tracking";
+"notifications.medication" = "Medication Reminders";
+"notifications.growth" = "Growth Tracking";
+
+// Settings
+"settings.preferences" = "Preferences";
+"settings.language" = "Language";
+
+// Time
+"year.single" = "year old";
+"year.plural" = "years old";
+"month.single" = "month old";
+"month.plural" = "months old";
+"day.single" = "day old";
+"day.plural" = "days old";
+"time.just.now" = "Just now";
+"time.minute.ago" = "1 minute ago";
+"time.minutes.ago" = "%d minutes ago";
+"time.hour.ago" = "1 hour ago";
+"time.hours.ago" = "%d hours ago";
+"time.yesterday" = "Yesterday";
+"time.days.ago" = "%d days ago";
+"time.duration" = "%dh %dm";
+
+// Activity
+"track.activity.sleep" = "Slept for %@";
+"track.activity.feeding.amount" = "%@ - %dml";
+
+// Feeding
+"feeding.type" = "Type";
+"feeding.start.time" = "Start Time";
+"feeding.duration" = "Duration: %d minutes";
+"feeding.amount" = "Amount: %dml";
+"feeding.save" = "Save Feeding";
+
+// Common
+"common.notes" = "Notes";
+"common.error" = "Error";
+"common.ok" = "OK";
+
+// Sleep
+"sleep.start.time" = "Start Time";
+"sleep.end.time" = "End Time";
+"sleep.quality" = "Sleep Quality";
+"sleep.details" = "Sleep Details";
+"sleep.duration" = "Duration: %@";
+"sleep.save" = "Save Sleep Record";
+
+// Error Messages
+"error.no.baby.selected" = "Please select a baby first";
+
+// Growth
+"growth.date" = "Date";
+"growth.weight" = "Weight (kg)";
+"growth.height" = "Height (cm)";
+"growth.head" = "Head Circumference (cm)";
+"growth.measurements" = "Measurements";
+"growth.units" = "Use metric units (kg for weight, cm for height and head circumference)";
+"growth.save" = "Save Growth Record";
+
+// Medication
+"medication.time" = "Time";
+"medication.name" = "Medication Name";
+"medication.dosage" = "Dosage";
+"medication.details" = "Medication Details";
+"medication.dosage.hint" = "Include units (e.g., ml, mg, drops)";
+"medication.save" = "Save Medication Record";
+"medication.select" = "Select Medication";
+"medication.change" = "Change";
+"medication.dosage.custom" = "Custom Dosage";
+"medication.category.vitamins" = "Vitamins";
+"medication.category.supplements" = "Supplements";
+"medication.category.painRelief" = "Pain Relief";
+"medication.category.fever" = "Fever";
+"medication.category.other" = "Other";
+"error.medication.name.required" = "Please enter medication name";
+"error.medication.dosage.required" = "Please enter dosage";
+
+// History
+"history.date" = "Select Date";
+"history.filter" = "Filter Activities";
+"history.filter.all" = "All";
+
+// Baby Settings
+"baby.settings" = "Baby Settings";
+"baby.settings.save" = "Save Changes";
+"baby.settings.delete" = "Delete Baby";
+"baby.settings.delete.title" = "Delete Baby";
+"baby.settings.delete.message" = "Are you sure you want to delete this baby? This action cannot be undone.";
+"baby.settings.delete.confirm" = "Delete";
+
+// Food Categories
+"food.category.fruits" = "Fruits";
+"food.category.vegetables" = "Vegetables";
+"food.category.grains" = "Grains";
+"food.category.protein" = "Protein";
+"food.category.dairy" = "Dairy";
+"food.category.other" = "Other";
+
+// Feeding
+"feeding.solids.select" = "Select Foods";
+"feeding.solids.selected" = "Selected Foods";
+"feeding.solids.none" = "No foods selected";
+"feeding.recent.amounts" = "Recent amounts:";
+
+// Sleep Timer
+"sleep.timer" = "Sleep Timer";
+"sleep.start.timer" = "Start Timer";
+"sleep.manual.entry" = "Manual Entry";
+
+// Quick Actions
+"quick.action.feeding" = "Feeding";
+"quick.action.sleep" = "Sleep";
+"quick.action.growth" = "Growth";
+"quick.action.medication" = "Medication";
+
+// Monthly Photos
+"monthly.photos" = "Monthly Photos";
+"monthly.photos.reminder" = "Time to take %@'s %d month photo!";
+"monthly.photos.title" = "Monthly Milestone Photos";
+"monthly.photos.age" = "%@ is %d months old";
+"monthly.photos.month" = "Month %d";
+"monthly.photos.capture" = "Capture Photo";
+"monthly.photos.achievement" = "Month %d Milestone";
+"monthly.photos.achievement.description" = "Captured your baby's %d month photo";
+  
